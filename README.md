@@ -1,7 +1,8 @@
-Customer_Churn
+Customer_Churn - Exploratory Data Analysis & Predicting Custmor Churn for Telco
 ==============================
 
-Predict Custmor Churn - WGU Assessment
+<p> <medium> <i> Project and Approach Overview </i></medium></p>
+![image](https://user-images.githubusercontent.com/61843133/120349326-0650af00-c2cc-11eb-8d05-ffd633d69c27.png)
 
 Project Organization
 ------------
@@ -50,9 +51,6 @@ Project Organization
     ├── Presentations & Reports <- makes project pip installable (pip install -e .) so src can be imported
     └── tox.ini                 <- tox file with settings for running tox; see tox.readthedocs.io
     
-<p> <medium> <i> Project and Approach Overview </i></medium></p>
-    
-![image](https://user-images.githubusercontent.com/61843133/120349326-0650af00-c2cc-11eb-8d05-ffd633d69c27.png)
 
 <p> <medium><i> Conclusions and Summary of Findings </i></medium></p>
 
