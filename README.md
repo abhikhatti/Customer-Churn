@@ -2,6 +2,7 @@ Customer_Churn - Exploratory Data Analysis & Predicting Custmor Churn for Telco
 ==============================
 
 <p> <medium> <i> Project and Approach Overview </i></medium></p>
+
 ![image](https://user-images.githubusercontent.com/61843133/120349326-0650af00-c2cc-11eb-8d05-ffd633d69c27.png)
 
 Project Organization
