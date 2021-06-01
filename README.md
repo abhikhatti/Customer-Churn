@@ -50,7 +50,7 @@ Project Organization
     ├── Presentations & Reports <- makes project pip installable (pip install -e .) so src can be imported
     └── tox.ini                 <- tox file with settings for running tox; see tox.readthedocs.io
     
-    **Project and Approach Overview **
+    <p> <medium> Project and Approach Overview </medium></p>
     
 ![image](https://user-images.githubusercontent.com/61843133/120349326-0650af00-c2cc-11eb-8d05-ffd633d69c27.png)
 
