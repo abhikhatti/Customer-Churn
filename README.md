@@ -23,6 +23,8 @@ Project Organization
     │
     ├── notebooks               <- Jupyter notebooks
     │
+    ├── Presentations & Reports <- Final Management and Detailed Technical Reports generated as a deliverable of the project
+    │
     ├── references              <- Data dictionaries, manuals, and all other explanatory materials.
     │
     ├── reports                 <- Generated analysis as HTML, PDF, LaTeX, etc.
@@ -48,8 +50,6 @@ Project Organization
     │   │
     │   └── visualization       <- Scripts to create exploratory and results oriented visualizations
     │       └── visualize.py
-    │
-    ├── Presentations & Reports <- makes project pip installable (pip install -e .) so src can be imported
     └── tox.ini                 <- tox file with settings for running tox; see tox.readthedocs.io
     
 
