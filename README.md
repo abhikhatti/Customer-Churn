@@ -59,4 +59,4 @@ Project Organization
 ![image](https://user-images.githubusercontent.com/61843133/120349410-19637f00-c2cc-11eb-8674-3dba6dc0cc10.png)
 
 --------
-<p><small>Project structure based on the cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
+<p>Project structure based on the cookiecutter data science project template. #cookiecutterdatascience</p>
